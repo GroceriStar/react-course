@@ -1,6 +1,25 @@
 {
   "docs": {
-  "Documentation":["react-course"]
+  "Tutorial":[
+      "tutorial/tutorial",
+      "tutorial/intro",
+      "tutorial/part-0",
+      "tutorial/part-1",
+      "tutorial/part-2",
+      "tutorial/part-3",
+      "tutorial/part-4",
+      "tutorial/part-5",
+      "tutorial/part-6",
+      "tutorial/part-7",
+      "tutorial/part-8",
+      "tutorial/part-9",
+      "tutorial/part-10",
+      "tutorial/part-11",
+      "tutorial/part-12",
+      "tutorial/part-13",
+      "tutorial/part-14",
+      "tutorial/part-15"
+  ]
 
   }
 

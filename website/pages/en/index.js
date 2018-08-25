@@ -121,8 +121,6 @@ const MainPage = props => (
 
         <div className = "tableofcontents">
 
-      <br/>Food Tech related static data in json arrays, like recipes, ingredients, recipes, diets, allergies, etc.
-      <br/>In a few our projects we have a similar files. And we always copy-paste code between them. So by moving this code into separated place - i hope we'll make our projects better.
       </div>
 
 
@@ -136,7 +134,26 @@ const FeatureCallout = props => (
         <div className = "tableofcontents">
 
           <ul>
-
+  <li><a href="/react-course/docs/tutorial/tutorial.html">Tutorial</a>
+  <ul>
+  <li><a href="/react-course/docs/tutorial/intro.html">Intro</a></li>
+  <li><a href="/react-course/docs/tutorial/part-0.html">Main task</a></li>
+  <li><a href="/react-course/docs/tutorial/part-1.html">Part 1</a></li>
+  <li><a href="/react-course/docs/tutorial/part-2.html">Part 2</a></li>
+  <li><a href="/react-course/docs/tutorial/part-3.html">Part 3</a></li>
+  <li><a href="/react-course/docs/tutorial/part-4.html">Part 4</a></li>
+  <li><a href="/react-course/docs/tutorial/part-5.html">Part 5</a></li>
+  <li><a href="/react-course/docs/tutorial/part-6.html">Part 6</a></li>
+  <li><a href="/react-course/docs/tutorial/part-7.html">Part 7</a></li>
+  <li><a href="/react-course/docs/tutorial/part-8.html">Part 8</a></li>
+  <li><a href="/react-course/docs/tutorial/part-9.html">Part 9</a></li>
+  <li><a href="/react-course/docs/tutorial/part-10.html">Part 10</a></li>
+  <li><a href="/react-course/docs/tutorial/part-11.html">Part 11</a></li>
+  <li><a href="/react-course/docs/tutorial/part-12.html">Part 12</a></li>
+  <li><a href="/react-course/docs/tutorial/part-13.html">Part 13</a></li>
+  <li><a href="/react-course/docs/tutorial/part-14.html">Part 14</a></li>
+  <li><a href="/react-course/docs/tutorial/part-15.html">Part 15</a></li>
+  </ul></li>
   </ul>
 
       </div>
@@ -157,14 +174,7 @@ const FeatureCallout2 = props => (
           </div>
           <div className="blockContent"><h2><div><span><p>Description</p>
     </span></div></h2><div><span><p>
-        Build with: Angular, Ionic Framework v.1
-      <ul>
-        <h3>Basic functionality:</h3>
-        <li>Screen with recipes list</li>
-        <li>Recipe details</li>
-        <li>Basic grocery list</li>
-        <li>Login screen.</li>
-    </ul>
+
 
 
 
