@@ -1,3 +1,7 @@
+---
+id: bitsrc-io
+title:  Bitsrc.io
+---
 
 Publish on Bit
 https://bitsrc.io/groceristar/recipe-search-form (we'll create another scope for Meal Calendar)

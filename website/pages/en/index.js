@@ -134,27 +134,51 @@ const FeatureCallout = props => (
         <div className = "tableofcontents">
 
           <ul>
-  <li><a href="/react-course/docs/tutorial/tutorial.html">Tutorial</a>
-  <ul>
-  <li><a href="/react-course/docs/tutorial/intro.html">Intro</a></li>
-  <li><a href="/react-course/docs/tutorial/part-0.html">Main task</a></li>
-  <li><a href="/react-course/docs/tutorial/part-1.html">Part 1</a></li>
-  <li><a href="/react-course/docs/tutorial/part-2.html">Part 2</a></li>
-  <li><a href="/react-course/docs/tutorial/part-3.html">Part 3</a></li>
-  <li><a href="/react-course/docs/tutorial/part-4.html">Part 4</a></li>
-  <li><a href="/react-course/docs/tutorial/part-5.html">Part 5</a></li>
-  <li><a href="/react-course/docs/tutorial/part-6.html">Part 6</a></li>
-  <li><a href="/react-course/docs/tutorial/part-7.html">Part 7</a></li>
-  <li><a href="/react-course/docs/tutorial/part-8.html">Part 8</a></li>
-  <li><a href="/react-course/docs/tutorial/part-9.html">Part 9</a></li>
-  <li><a href="/react-course/docs/tutorial/part-10.html">Part 10</a></li>
-  <li><a href="/react-course/docs/tutorial/part-11.html">Part 11</a></li>
-  <li><a href="/react-course/docs/tutorial/part-12.html">Part 12</a></li>
-  <li><a href="/react-course/docs/tutorial/part-13.html">Part 13</a></li>
-  <li><a href="/react-course/docs/tutorial/part-14.html">Part 14</a></li>
-  <li><a href="/react-course/docs/tutorial/part-15.html">Part 15</a></li>
-  </ul></li>
-  </ul>
+<li><a href="/react-course/docs/tutorial/tutorial.html">Tutorial</a>
+<ul>
+<li><a href="/react-course/docs/tutorial/intro.html">Intro</a></li>
+<li><a href="/react-course/docs/tutorial/part-0.html">Main task</a></li>
+<li><a href="/react-course/docs/tutorial/part-1.html">Part 1</a></li>
+<li><a href="/react-course/docs/tutorial/part-2.html">Part 2</a></li>
+<li><a href="/react-course/docs/tutorial/part-3.html">Part 3</a></li>
+<li><a href="/react-course/docs/tutorial/part-4.html">Part 4</a></li>
+<li><a href="/react-course/docs/tutorial/part-5.html">Part 5</a></li>
+<li><a href="/react-course/docs/tutorial/part-6.html">Part 6</a></li>
+<li><a href="/react-course/docs/tutorial/part-7.html">Part 7</a></li>
+<li><a href="/react-course/docs/tutorial/part-8.html">Part 8</a></li>
+<li><a href="/react-course/docs/tutorial/part-9.html">Part 9</a></li>
+<li><a href="/react-course/docs/tutorial/part-10.html">Part 10</a></li>
+<li><a href="/react-course/docs/tutorial/part-11.html">Part 11</a></li>
+<li><a href="/react-course/docs/tutorial/part-12.html">Part 12</a></li>
+<li><a href="/react-course/docs/tutorial/part-13.html">Part 13</a></li>
+<li><a href="/react-course/docs/tutorial/part-14.html">Part 14</a></li>
+<li><a href="/react-course/docs/tutorial/part-15.html">Part 15</a></li>
+</ul></li>
+<li><a href="/react-course/docs/default-tasks/default-tasks.html">Deafaul tasks</a>
+<ul>
+<li><a href="/react-course/docs/default-tasks/add-meal-form.html">Add Meal Form</a></li>
+<li><a href="/react-course/docs/default-tasks/bitsrc-io.html"> Bitsrc.io</a></li>
+<li><a href="/react-course/docs/default-tasks/calendar.html">Calendar</a></li>
+<li><a href="/react-course/docs/default-tasks/codacy.html">Codacy</a></li>
+<li><a href="/react-course/docs/default-tasks/complex-recipe.html">Complex recipe</a></li>
+<li><a href="/react-course/docs/default-tasks/config-data.html">Config data</a></li>
+<li><a href="/react-course/docs/default-tasks/dotenv-configuration.html">DotEnv configuration</a></li>
+<li><a href="/react-course/docs/default-tasks/flow.html">Flow</a></li>
+<li><a href="/react-course/docs/default-tasks/get-data-from-fetch-plugin.html">Get data from fetch-plugin</a></li>
+<li><a href="/react-course/docs/default-tasks/git-tutorial.html">Git tutorial</a></li>
+<li><a href="/react-course/docs/default-tasks/kiss.html">KISS</a></li>
+<li><a href="/react-course/docs/default-tasks/meal-plan.html">Meal Plan</a></li>
+<li><a href="/react-course/docs/default-tasks/netlify.html">Netlify</a></li>
+<li><a href="/react-course/docs/default-tasks/phoenix-startup.html">Phoenix startup</a></li>
+<li><a href="/react-course/docs/default-tasks/project-strucutre.html">Project strucutre</a></li>
+<li><a href="/react-course/docs/default-tasks/render-meals.html">Render meals</a></li>
+<li><a href="/react-course/docs/default-tasks/routing.html">Routing</a></li>
+<li><a href="/react-course/docs/default-tasks/styles.html">Styles</a></li>
+<li><a href="/react-course/docs/default-tasks/tests.html">Tests</a></li>
+<li><a href="/react-course/docs/default-tasks/travis.html">Travis</a></li>
+<li><a href="/react-course/docs/default-tasks/warnings.html">Warnings</a></li>
+</ul></li>
+</ul>
 
       </div>
 
