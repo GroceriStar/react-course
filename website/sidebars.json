@@ -19,6 +19,30 @@
       "tutorial/part-13",
       "tutorial/part-14",
       "tutorial/part-15"
+  ],
+  "Default tasks":[
+    "default-tasks/default-tasks",
+    "default-tasks/add-meal-form",
+"default-tasks/bitsrc-io",
+"default-tasks/calendar",
+"default-tasks/codacy",
+"default-tasks/complex-recipe",
+"default-tasks/config-data",
+"default-tasks/dotenv-configuration",
+"default-tasks/flow",
+"default-tasks/get-data-from-fetch-plugin",
+"default-tasks/git-tutorial",
+"default-tasks/kiss",
+"default-tasks/meal-plan",
+"default-tasks/netlify",
+"default-tasks/phoenix-startup",
+"default-tasks/project-strucutre",
+"default-tasks/render-meals",
+"default-tasks/routing",
+"default-tasks/styles",
+"default-tasks/tests",
+"default-tasks/travis",
+"default-tasks/warnings"
   ]
 
   }

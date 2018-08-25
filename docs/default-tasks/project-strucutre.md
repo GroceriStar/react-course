@@ -1,3 +1,8 @@
+---
+id: project-strucutre
+title: Project strucutre
+---
+
 
 Modals should be as separated components
 Put them also in one folder.

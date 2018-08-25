@@ -1,3 +1,7 @@
+---
+id: phoenix-startup
+title: Phoenix startup
+---
 
 
 ## convert phoenix startup template into react page
@@ -16,13 +20,13 @@ for fast start we can use a template from `build` folder
 But also check their src structure and tell me - will you be able to setup a local version of development version where we'll be able to alter scss?
 
 
-prev code located here: https://github.com/atherdon/ph-st 
+prev code located here: https://github.com/atherdon/ph-st
 compiled HTML are here: https://github.com/atherdon/ph-st/tree/master/build
 
 
 checklist
-as it's a big task, please tell me your step by step plan. 
-it'll be cool to go from basic stuff first, like: 
+as it's a big task, please tell me your step by step plan.
+it'll be cool to go from basic stuff first, like:
 
 - implement header and footer and container -->
 - then go to each block -->

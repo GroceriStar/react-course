@@ -1,4 +1,7 @@
-
+---
+id: warnings
+title: Warnings
+---
 
 warnings
 Compiled with warnings.
